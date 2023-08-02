@@ -7,8 +7,6 @@
 
 body {
     margin: auto;
-    /* min-width: 750px;
-    max-width: 1080px; */
     background-color: #f3f5f5;
 
 }
@@ -504,11 +502,11 @@ footer {
         display:none;
     }
 /* ------Mobile Footer sec------- */
+    footer{
+        border-top:0px;
+        padding: 16px 16px;
+    }
     .menu-footer{
         display: none;
-    }
-    footer{
-        border:0px;
-        padding: ;
     }
 } 
